@@ -7,4 +7,4 @@ while i<=N:
         print(D)
         S=S+1
     i=i+1
-print("le nbre des diviseurs est :" ,   S)
+print("the number of divisors is:" ,   S)
